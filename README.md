@@ -7,7 +7,7 @@
 <br /><br />
 
 <!-- Glowing name with emoji -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=600&color=7DCFFF&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+DHRUV+%F0%9F%94%A5;FULL-STACK+DEVELOPER+%E2%9A%A1;OPEN+SOURCE+ENTHUSIAST+%F0%9F%92%96;BUILDING+THE+FUTURE+%F0%9F%9A%80&repeat=true&bold=true&multiline=true" alt="Dhruv - Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=600&color=7DCFFF&center=true&vCenter=true&width=800&lines=%F0%9F%94%A5+DHRUV+%F0%9F%94%A5;FULL-STACK+DEVELOPER+%E2%9A%A1;OPEN+SOURCE+ENTHUSIAST+%F0%9F%92%96;BUILDING+THE+FUTURE+%F0%9F%9A%80;SYSTEM+DESIGN+NERD+%F0%9F%A7%A9;ALWAYS+SHIPPING+%F0%9F%9B%A0%EF%B8%8F&repeat=true&bold=true&multiline=true" alt="Dhruv - Developer" />
 
 <br /><br />
 
@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/github/followers/heywinterbell?label=FOLLOWERS&logo=github&style=flat-square&color=0d1b3d&labelColor=7DCFFF&logoColor=7DCFFF" alt="Followers" />
 <img src="https://img.shields.io/github/stars/heywinterbell?label=STARS&logo=stargazer&style=flat-square&color=0d1b3d&labelColor=FFD700&logoColor=FFD700" alt="Stars" />
 <img src="https://img.shields.io/badge/-REPOS-0d1b3d?style=flat-square&logo=git&logoColor=7DCFFF&labelColor=7DCFFF" alt="Repos" />
+<img src="https://img.shields.io/badge/status-available%20for%20work-2ea44f?style=flat-square&labelColor=0d1b3d" alt="Available for work" />
 
 <br /><br />
 
@@ -55,7 +56,41 @@
 <a href="https://github.com/pulls?q=is%3Apr+author%3Aheywinterbell">
 <img src="https://img.shields.io/badge/-PRs-0d1b3d?style=for-the-badge&logo=pull-requests&logoColor=7DCFFF&labelColor=0d1b3d" />
 </a>
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/-Featured%20Work-0d1b3d?style=for-the-badge&logo=rocket&logoColor=7DCFFF&labelColor=0d1b3d" />
+</a>
 
+</div>
+
+---
+
+<div align="center">
+
+## 🧑‍💻 WHO I AM
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+Hey, I'm **Dhruv** 👋 — a full-stack developer who enjoys turning ideas into working
+software, from backend services to polished front-end interfaces. I care about clean
+architecture, readable code, and shipping things that actually get used.
+
+When I'm not coding, I'm usually reading about system design, tinkering with a side
+project, or contributing to open source repos that catch my interest.
+
+- 🌍 Based in India
+- 🎓 Currently sharpening skills in system design, cloud, and ML fundamentals
+- 🛠️ Comfortable across the stack — Java/Spring on the backend, React/Node on the front
+- 🤝 Open to collaborating on dev tools, open-source libraries, and creative web apps
+- ⚡ Fun fact: I write more code than documentation... wait, this **is** documentation!
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -103,6 +138,17 @@
 
 </div>
 
+<br />
+
+<div align="center">
+
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/heywinterbell/heywinterbell/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+<sub><i>Snake animation requires a GitHub Action (e.g. Platane/snk) configured on this repo to generate.</i></sub>
+
+</div>
+
 ---
 
 <div align="center">
@@ -139,6 +185,90 @@
 
 <div align="center">
 
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Project One
+**Short tagline describing what it does.**
+
+`Tech: React · Node.js · MongoDB`
+
+- Key feature or highlight #1
+- Key feature or highlight #2
+- Deployed at: `link-here`
+
+<a href="https://github.com/heywinterbell/REPO_NAME">
+<img src="https://img.shields.io/badge/-View%20Repo-0d1b3d?style=flat-square&logo=github&logoColor=7DCFFF&labelColor=0d1b3d" />
+</a>
+
+</td>
+<td width="50%">
+
+### ⚙️ Project Two
+**Short tagline describing what it does.**
+
+`Tech: Java · Spring Boot · PostgreSQL`
+
+- Key feature or highlight #1
+- Key feature or highlight #2
+- Deployed at: `link-here`
+
+<a href="https://github.com/heywinterbell/REPO_NAME">
+<img src="https://img.shields.io/badge/-View%20Repo-0d1b3d?style=flat-square&logo=github&logoColor=7DCFFF&labelColor=0d1b3d" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧩 Project Three
+**Short tagline describing what it does.**
+
+`Tech: Python · Flask · Redis`
+
+- Key feature or highlight #1
+- Key feature or highlight #2
+- Deployed at: `link-here`
+
+<a href="https://github.com/heywinterbell/REPO_NAME">
+<img src="https://img.shields.io/badge/-View%20Repo-0d1b3d?style=flat-square&logo=github&logoColor=7DCFFF&labelColor=0d1b3d" />
+</a>
+
+</td>
+<td width="50%">
+
+### 📱 Project Four
+**Short tagline describing what it does.**
+
+`Tech: TypeScript · Next.js · Tailwind`
+
+- Key feature or highlight #1
+- Key feature or highlight #2
+- Deployed at: `link-here`
+
+<a href="https://github.com/heywinterbell/REPO_NAME">
+<img src="https://img.shields.io/badge/-View%20Repo-0d1b3d?style=flat-square&logo=github&logoColor=7DCFFF&labelColor=0d1b3d" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<sub><i>Replace REPO_NAME and taglines with your actual pinned repositories.</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
 ## ⚡ TECH STACK
 
 </div>
@@ -147,7 +277,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 💻 Languages
 
@@ -158,7 +288,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1b3d?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1b3d)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🛠️ Tools
 
@@ -169,7 +299,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0d1b3d?style=flat-square&logo=visual-studio-code&logoColor=007ACC&labelColor=0d1b3d)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### ⚙️ Frameworks
 
@@ -180,7 +310,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0d1b3d?style=flat-square&logo=tailwind-css&logoColor=38BDF8&labelColor=0d1b3d)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 🗄️ Databases
 
@@ -190,8 +320,64 @@
 ![Redis](https://img.shields.io/badge/-Redis-0d1b3d?style=flat-square&logo=redis&logoColor=DC382D&labelColor=0d1b3d)
 
 </td>
+<td align="center" width="20%">
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/-AWS-0d1b3d?style=flat-square&logo=amazon-aws&logoColor=FF9900&labelColor=0d1b3d)
+![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-0d1b3d?style=flat-square&logo=github-actions&logoColor=2088FF&labelColor=0d1b3d)
+![Nginx](https://img.shields.io/badge/-Nginx-0d1b3d?style=flat-square&logo=nginx&logoColor=009639&labelColor=0d1b3d)
+![Vercel](https://img.shields.io/badge/-Vercel-0d1b3d?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=0d1b3d)
+![Postman](https://img.shields.io/badge/-Postman-0d1b3d?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=0d1b3d)
+
+</td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗺️ EXPERIENCE & JOURNEY
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```
+2024 — Present   🚀  Building full-stack apps, exploring system design & cloud
+2023 — 2024      🌱  Deepened backend skills — Java, Spring Boot, databases
+2022 — 2023      💻  Started open source contributions & personal projects
+20XX             🎓  Began learning to code — first "Hello, World!"
+```
+
+<sub><i>Update the timeline above with your real milestones — internships, jobs, certifications, hackathons, etc.</i></sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+
+</div>
+
+<div align="center">
+
+- 📜 *Certification name* — Issuer, Year
+- 📜 *Certification name* — Issuer, Year
+- 🏅 *Hackathon / competition result* — Event, Year
+
+<sub><i>Add your real certifications, hackathon wins, or notable achievements here.</i></sub>
 
 </div>
 
@@ -269,6 +455,29 @@
 <a href="https://github.com/heywinterbell">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Profile" />
 </a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-0d1b3d?style=for-the-badge&logo=todoist&logoColor=7DCFFF&labelColor=0d1b3d&label=Website" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ☕ SUPPORT MY WORK
+
+<a href="#">
+<img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" />
+</a>
+<a href="https://github.com/sponsors/heywinterbell">
+<img src="https://img.shields.io/badge/-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+</a>
+
+If any of my projects helped you out, a ⭐ on the repo goes a long way!
 
 </div>
 
