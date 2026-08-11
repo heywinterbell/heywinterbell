@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#05060f"/>
+      <stop offset="50%" stop-color="#0d1b3d"/>
+      <stop offset="100%" stop-color="#05060f"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7DCFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7DCFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7DCFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="fglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="160" fill="url(#fbg)"/>
+
+  <path d="M0,110 C150,60 300,150 500,100 C700,50 850,140 1000,90" stroke="url(#waveGrad)" stroke-width="2" fill="none" opacity="0.6">
+    <animate attributeName="d"
+      values="M0,110 C150,60 300,150 500,100 C700,50 850,140 1000,90;
+               M0,90 C150,140 300,60 500,110 C700,150 850,60 1000,110;
+               M0,110 C150,60 300,150 500,100 C700,50 850,140 1000,90"
+      dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="80" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="26" font-weight="700" fill="#eef3ff" filter="url(#fglow)">THANKS FOR VISITING</text>
+  <text x="500" y="108" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13" fill="#8ab4ff" letter-spacing="2">MADE WITH ❤ AND WAY TOO MUCH ☕</text>
+
+  <g fill="#FFD700">
+    <circle cx="120" cy="40" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="45" r="1.8"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="130" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="125" r="1.5"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
