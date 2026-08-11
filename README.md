@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
 <div align="center">
 
 <!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
@@ -21,8 +14,8 @@
 <!-- Animated status badges -->
 <img src="https://komarev.com/ghpvc/?username=heywinterbell&style=flat-square&color=blueviolet&label=PROFILE+VIEWS&label_color=7DCFFF&cache=v1" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/heywinterbell?label=FOLLOWERS&logo=github&style=flat-square&color=0d1b3d&labelColor=7DCFFF&logoColor=7DCFFF" alt="Followers" />
-<img src="https://img.shields.io/github/stars/heywinterbell?label=STARS&logo=star&style=flat-square&color=0d1b3d&labelColor=FFD700&logoColor=FFD700" alt="Stars" />
-<img src="https://img.shields.io/badge/-REPOS-0d1b3d?style=flat-square&logo=git-branch&logoColor=7DCFFF&labelColor=7DCFFF" alt="Repos" />
+<img src="https://img.shields.io/github/stars/heywinterbell?label=STARS&logo=stargazer&style=flat-square&color=0d1b3d&labelColor=FFD700&logoColor=FFD700" alt="Stars" />
+<img src="https://img.shields.io/badge/-REPOS-0d1b3d?style=flat-square&logo=git&logoColor=7DCFFF&labelColor=7DCFFF" alt="Repos" />
 
 <br /><br />
 
@@ -51,13 +44,13 @@
 <img src="https://img.shields.io/badge/-Profile-0d1b3d?style=for-the-badge&logo=github&logoColor=7DCFFF&labelColor=0d1b3d" />
 </a>
 <a href="https://github.com/heywinterbell?tab=repositories">
-<img src="https://img.shields.io/badge/-Repositories-0d1b3d?style=for-the-badge&logo=git-repository&logoColor=7DCFFF&labelColor=0d1b3d" />
+<img src="https://img.shields.io/badge/-Repositories-0d1b3d?style=for-the-badge&logo=git-branch&logoColor=7DCFFF&labelColor=0d1b3d" />
 </a>
 <a href="https://github.com/heywinterbell?tab=projects">
-<img src="https://img.shields.io/badge/-Projects-0d1b3d?style=for-the-badge&logo=kanban&logoColor=7DCFFF&labelColor=0d1b3d" />
+<img src="https://img.shields.io/badge/-Projects-0d1b3d?style=for-the-badge&logo=github&logoColor=7DCFFF&labelColor=0d1b3d" />
 </a>
 <a href="https://github.com/heywinterbell?tab=stars">
-<img src="https://img.shields.io/badge/-Starred-0d1b3d?style=for-the-badge&logo=star&logoColor=FFD700&labelColor=0d1b3d" />
+<img src="https://img.shields.io/badge/-Starred-0d1b3d?style=for-the-badge&logo=stargazer&logoColor=FFD700&labelColor=0d1b3d" />
 </a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Aheywinterbell">
 <img src="https://img.shields.io/badge/-PRs-0d1b3d?style=for-the-badge&logo=pull-requests&logoColor=7DCFFF&labelColor=0d1b3d" />
@@ -141,13 +134,6 @@
 </div>
 
 <br />
-
-<div align="center">
-
-<!-- Contribution Snake -->
-![](https://raw.githubusercontent.com/heywinterbell/heywinterbell/output/github-snake-dark.svg)
-
-</div>
 
 ---
 
